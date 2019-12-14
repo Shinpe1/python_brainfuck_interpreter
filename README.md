@@ -4,8 +4,8 @@ https://github.com/white-silver/brainfuck_interpreter_by_python
 この方のコードをほぼほぼ使わせてもらって，PythonでBrainFuck言語用インタプリタを作ってみました  
 少し改変，機能追加してます  
 今のところできることは    
-`brainfuckファイル（.bf）をエンコードする`  
-`テキストファイルの内容をなんちゃってBrainFuck化する`  
+`・brainfuckファイル（.bf）をエンコードする`  
+`・テキストファイルの内容をなんちゃってBrainFuck化する`  
 の2点です
 
 ***
